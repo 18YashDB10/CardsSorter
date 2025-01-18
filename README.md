@@ -1,0 +1,65 @@
+# Multi-Class Image Classification Project
+
+This project demonstrates a deep learning-based approach to solving a multi-class image classification problem. Using TensorFlow and related libraries, it covers the complete pipeline from data acquisition to model evaluation.
+
+## Key Features
+- Multi-class image classification using a custom deep learning model.
+- Data preprocessing, including normalization and augmentation.
+- Model training and evaluation with performance visualization.
+- Hands-on use of TensorFlow, Scikit-learn, Matplotlib, and Seaborn.
+
+## Skills Demonstrated
+- Deep Learning and Neural Network Design
+- Image Data Preprocessing
+- Model Training and Tuning
+- Performance Evaluation and Visualization
+
+## Tech Stack
+- **Programming Language**: Python
+- **Libraries/Frameworks**:
+  - TensorFlow (v2.14.0)
+  - Matplotlib
+  - Scikit-learn
+  - Seaborn
+  - Kaggle
+
+## Project Structure
+- **Getting Data**: Load and explore the dataset for training.
+- **Processing Data**: Preprocess images for model compatibility.
+- **Building Model**: Create and compile a deep learning model.
+- **Training Model**: Train the model and monitor metrics.
+- **Evaluate Model**: Assess the model’s performance on test data.
+
+## Requirements
+To run this project, ensure you have the following installed:
+- Python 3.7+
+- TensorFlow 2.14.0
+- Matplotlib
+- Scikit-learn
+- Seaborn
+- Kaggle
+
+### Installation
+To install the required dependencies, run:
+```bash
+pip install tensorflow==2.14.0 matplotlib scikit-learn seaborn kaggle
+```
+
+## Running the Project
+1. Clone this repository or download the Jupyter notebook file.
+2. Ensure all dependencies are installed.
+3. Open the notebook in your Jupyter environment.
+4. Run each cell sequentially to execute the project pipeline.
+
+## Results
+The project includes visualizations of the model’s training performance and evaluation metrics. Detailed results can be found in the evaluation section of the notebook.
+
+## License
+This project is open-source and available under the MIT License.
+
+---
+
+### Author
+[Yash Deepak Bambore]  
+
+Feel free to contribute or raise issues to enhance this project!
